@@ -6,10 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/inspectionProfiles/profiles_settings.xml
-/inspectionProfiles/Project_Default.xml
-/ecommerce.iml
-/misc.xml
-/modules.xml
-/vcs.xml
-/inspectionProfiles/.env
+inspectionProfiles/
+.env

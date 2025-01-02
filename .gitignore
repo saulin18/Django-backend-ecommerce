@@ -1,1 +1,6 @@
-/guia completa.txt
+.env
+.venv/
+db.sqlite3
+static/
+media/
+.idea/
